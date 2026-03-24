@@ -1,6 +1,5 @@
 ## Hi there 👋
 
--->
 Python Developer | Aspiring Business & Data Analyst
 
 Focused on building efficient, data-driven solutions. Currently leveraging Python, SQL, NumPy, Matplotlib and Pandas to extract insights and automate workflows.
