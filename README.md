@@ -26,4 +26,4 @@ Bridging the gap between data-driven strategy and functional products. Focused o
 
 ---
 
-📫 **Connect with me:** [X (Twitter)](https://x.com/твой_ник) • [LinkedIn](https://linkedin.com/in/твой_профиль)
+📫 **Connect with me:** [X (Twitter)]([https://x.com/Yerali_i]) • [LinkedIn](www.linkedin.com/in/yerali-yesenalin-78338b424)
