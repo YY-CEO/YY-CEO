@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Eraly
+## Hi there 👋 I'm Yerali
 
 **Business Analyst & Web3 Builder**  
 Bridging the gap between data-driven strategy and functional products. Focused on Business Analytics, Fintech, and decentralized applications.
@@ -26,5 +26,6 @@ Bridging the gap between data-driven strategy and functional products. Focused o
 
 ---
 
-📫 **Connect with me:** [X (Twitter)](https://x.com/Yerali_i) • [LinkedIn](www.linkedin.com/in/yerali-yesenalin-78338b424)
+📫 **Connect with me:** [All My Links](https://yerchikk-links.nurzhanbox.chatgpt.site) 
+
 
